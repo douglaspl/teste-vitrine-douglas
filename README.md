@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Projeto teste vitrine
 
 Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Meu projeto XPTO**
+| :label: Tecnologias | html, css, sass, ember.js, JavaScript
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
